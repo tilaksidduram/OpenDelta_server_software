@@ -11,7 +11,7 @@ Before you can use the software the first time run ./install.sh. Change FILE_MAT
 Usage
 =====
 
-To create the needed files place your 2nd newest Rom file in the folder old and your newest in the folder new. Then run ./carbondelta.sh. When the script finished it's work upload the contents of the folder publish.
+To create the needed files place your 2nd newest Rom file in the folder old and your newest in the folder new. Then run ./carbondelta.sh *YOUR DEVICE*. When the script finished it's work upload the contents of the folder publish.
 
 Credits
 =======
