@@ -1,4 +1,4 @@
-OpenDelta Server Software
+CarbonDelta Server Software
 =========================
 
 Software to create needed files for OpenDelta modified to get installed and used easily.
@@ -6,7 +6,7 @@ Software to create needed files for OpenDelta modified to get installed and used
 Installation
 ============
 
-Before you can use the software the first time run ./install.sh. Change FILE_MATCH=CARBON-KK-Myself5-*.zip in opendelta.sh to your roms basename. (See my configuration)
+Before you can use the software the first time run ./install.sh. Change FILE_MATCH=CARBON-KK-Myself5-*.zip in carbondelta.sh to your roms basename. (See my configuration)
 
 Usage
 =====
