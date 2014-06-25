@@ -1,10 +1,8 @@
 #!/bin/bash
 
 # Script to generate delta files for OpenDelta - by Jorrit 'Chainfire' Jongma
-
+# Modified by Christian 'Myself5' Oder to be easier installable and usable.
 # Get device either from $DEVICE set by calling script, or first parameter
-
-DEVICE=i9100
 
 if [ "$DEVICE" == "" ]; then
 	if [ "$1" != "" ]; then
