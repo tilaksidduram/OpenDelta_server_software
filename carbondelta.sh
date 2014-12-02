@@ -24,7 +24,7 @@ BIN_MINSIGNAPK=$HOME/files/minsignapk.jar
 BIN_XDELTA=$HOME/files/xdelta3
 BIN_ZIPADJUST=$HOME/files/zipadjust
 
-FILE_MATCH=cm-12-*-INFECTED-$DEVICE.zip
+FILE_MATCH=$2
 PATH_CURRENT=$HOME/new
 PATH_LAST=$HOME/old
 
