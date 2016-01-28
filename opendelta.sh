@@ -17,14 +17,14 @@ fi
 
 # ------ CONFIGURATION ------
 
-HOME=.
+HOME=/home/houstonn/storage/tilak/cm/OpenDelta/server/software
 
 BIN_JAVA=java
 BIN_MINSIGNAPK=$HOME/files/minsignapk.jar
 BIN_XDELTA=$HOME/files/xdelta3
 BIN_ZIPADJUST=$HOME/files/zipadjust
 
-FILE_MATCH=$2
+FILE_MATCH=cm-*.zip
 PATH_CURRENT=$HOME/new
 PATH_LAST=$HOME/old
 
